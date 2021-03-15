@@ -25,12 +25,13 @@ export default function Alert({ preview }) {
             </>
           ) : (
             <>
-              The source code for this blog is{' '}
+              Podes ir a la web pricipal:{' '}
               <a
-                href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
+                //href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
+                href={`http://delucagerman.com.ar`}
                 className="underline hover:text-success duration-200 transition-colors"
               >
-                available on GitHub
+                G3rm@n
               </a>
               .
             </>
