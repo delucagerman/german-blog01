@@ -1,6 +1,12 @@
 module.exports = {
   purge: ['./components/**/*.js', './pages/**/*.js'],
   theme: {
+    theme: {
+      fontFamily: {
+      sans: ['Dosis', 'sans-serif'],
+      serif: ['Dosis', 'serif'],
+    },
+    },
     extend: {
       colors: {
         'accent-1': '#FAFAFA',
@@ -8,6 +14,7 @@ module.exports = {
         'accent-7': '#333',
         success: '#0070f3',
         cyan: '#79FFE1',
+        petroleo: '#091c29',
       },
       spacing: {
         28: '7rem',
