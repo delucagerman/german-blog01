@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="py-20 flex flex-col lg:flex-row items-center">
           <div className="lg:w-2/3">
             <h3 className="text-4xl lg:text-5xl font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 ">
-              Un Blog donde todos somos posibilidad!!!.
+              Un Blog donde todes somos posibilidad !!!
             </h3>
             <h2 className="mb-6 text-3xl font-dosis font-bold  text-center lg:text-left">
               G3rm@n{' '}
